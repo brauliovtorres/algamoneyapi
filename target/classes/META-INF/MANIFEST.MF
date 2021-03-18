@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: btorres
+Build-Jdk: 15.0.1
+Implementation-Title: algamoneyapi
+Implementation-Version: 1.0.0-SNAPSHOT
+Implementation-Vendor-Id: com.algaworks.algamoneyapi
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/algamoneyapi/
+Created-By: Maven Integration for Eclipse
+
